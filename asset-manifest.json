@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/SInC-Website/static/css/main.241dd383.chunk.css",
-    "main.js": "/SInC-Website/static/js/main.f44f685a.chunk.js",
-    "main.js.map": "/SInC-Website/static/js/main.f44f685a.chunk.js.map",
+    "main.js": "/SInC-Website/static/js/main.0ce2e120.chunk.js",
+    "main.js.map": "/SInC-Website/static/js/main.0ce2e120.chunk.js.map",
     "runtime-main.js": "/SInC-Website/static/js/runtime-main.ec4de69e.js",
     "runtime-main.js.map": "/SInC-Website/static/js/runtime-main.ec4de69e.js.map",
-    "static/js/2.30b88b8c.chunk.js": "/SInC-Website/static/js/2.30b88b8c.chunk.js",
-    "static/js/2.30b88b8c.chunk.js.map": "/SInC-Website/static/js/2.30b88b8c.chunk.js.map",
+    "static/js/2.1dc75dce.chunk.js": "/SInC-Website/static/js/2.1dc75dce.chunk.js",
+    "static/js/2.1dc75dce.chunk.js.map": "/SInC-Website/static/js/2.1dc75dce.chunk.js.map",
     "static/js/3.b3826574.chunk.js": "/SInC-Website/static/js/3.b3826574.chunk.js",
     "static/js/3.b3826574.chunk.js.map": "/SInC-Website/static/js/3.b3826574.chunk.js.map",
     "index.html": "/SInC-Website/index.html",
     "static/css/main.241dd383.chunk.css.map": "/SInC-Website/static/css/main.241dd383.chunk.css.map",
-    "static/js/2.30b88b8c.chunk.js.LICENSE.txt": "/SInC-Website/static/js/2.30b88b8c.chunk.js.LICENSE.txt",
+    "static/js/2.1dc75dce.chunk.js.LICENSE.txt": "/SInC-Website/static/js/2.1dc75dce.chunk.js.LICENSE.txt",
     "static/media/InBetween.f457f3fe.png": "/SInC-Website/static/media/InBetween.f457f3fe.png",
     "static/media/about.4b3b945e.png": "/SInC-Website/static/media/about.4b3b945e.png",
     "static/media/amico.d1707430.png": "/SInC-Website/static/media/amico.d1707430.png",
@@ -50,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ec4de69e.js",
-    "static/js/2.30b88b8c.chunk.js",
+    "static/js/2.1dc75dce.chunk.js",
     "static/css/main.241dd383.chunk.css",
-    "static/js/main.f44f685a.chunk.js"
+    "static/js/main.0ce2e120.chunk.js"
   ]
 }
